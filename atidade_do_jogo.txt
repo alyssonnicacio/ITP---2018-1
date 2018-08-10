@@ -1,0 +1,19 @@
+Atividade do jogo Plants vs Zombies
+
+Analise do jogo
+
+.Nome do jogo - Plants vs Zombies
+
+.Gênero - Tower Deffense(Denfenda a torre)
+
+.Objetivo(do jogador) - Defender a sua casa dos zumbis no decorrer das fases e terminar o jogo 
+
+.Temática do jogo - O jogo se baseia no fato de que sua casa esta sendo atacada por zumbis e você tem que defende-la usando plantas que atacam os zumbis, plantando elas no seu jardim e com o decorrer do jogo você vai desbloqueando novas plantas para derrotar os novos zumbis que aparecem.
+
+.Condições de Vitória/Derrota - A cada partida você deve conseguir sobreviver a todas as ordas dos zumbis e avançar nas fases do jogo, caso você não consiga sobreviver você perde. A condição de vitoria do jogo é terminar todas as fases.
+
+.Regras do jogo - Você deve montar uma estrategia para conseguir resistir as ordas de zumbis, as regras são que você so pode colocar as plantas nas casas que estão disponiveis, não pode colocar mais de uma planta na mesma casa, precisa ter a quantidade de sois que a planta necessita para poder planta-la, você poder remover uma planta caso queira 
+
+.Ações do jogador - Ele basicamente pode plantar e remover as plantas para se defender dos zumbis e ele pode pegar os sois que ou caem com o tempo ou que caem dos girasois que ele plantar.
+
+.Desafios impostos pelo jogo - Com o passar das rodadas as ordas vão ficando maiores e os zumbis vão ficando mais resistentes, além do que, você vai precisas escolher com cuidado que tipo de planta vai plantar já que cada zumbi tem a sua fraqueza.
